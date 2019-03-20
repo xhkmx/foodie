@@ -1,0 +1,23 @@
+[
+        {
+        "id": 1,
+        "name": "Nasi Lemak Ayam",
+        "price": "7",
+        "description": "Native: tried calling SplashScreen.hide, but Cordova is not available. Make sure to include cordova.js or run in a device/simulator", 
+        "imageUrl": "https://cdn.pixabay.com/photo/2016/08/11/08/04/vegetables-1584999__340.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Nasi Lemak Babi",
+        "price": "12",
+        "description": "Angular is running in the development mode. Call enableProdMode() to enable the production mode.", 
+        "imageUrl": "https://cdn.pixabay.com/photo/2017/10/09/19/29/eat-2834549__340.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Nasi Lemak Sotong",
+        "price": "4",
+        "description": "VM7865 Tab1Page.ngfactory.js:30 ERROR Error: Cannot find a differ supporting object '[object Promise]' of type 'object'. NgFor only supports binding to Iterables such as Arrays.", 
+        "imageUrl": "https://cdn.pixabay.com/photo/2014/08/14/14/21/shish-kebab-417994__340.jpg"
+    }
+]
